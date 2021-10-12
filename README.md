@@ -1,9 +1,12 @@
 # Progetto_esame_PMO
 
-###Nome: Luca Nicoletti
-###Matricola: 299278
-###Titolo del progetto: Gestionale Prestito e restituzione di Libri
-###Specifica:
+Nome: Luca Nicoletti
+
+Matricola: 299278
+
+Titolo del progetto: Gestionale Prestito e restituzione di Libri
+
+Specifica:
 Si vuole creare un programma che gestisca il prestito e la restituzione di libri in una biblioteca.
  
 Il programma prevede all'apertura un login dove verranno chiesti nome utente e password, previa registrazione.
