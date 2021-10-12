@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProgettoPMO.AreaPersonale" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMAAAgCAQABAAAASAAAASAAQABUBAAAAgIYRAAgA=</HashCode>
+      <FileName>AreaPersonale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.Database" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAIAAAABAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.Login" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAQABEAAAGAQAACAAYABQBAAAAIAQFAAAE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.Registrazione" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAAEAAAAiAQABECAAGAQAQCCBQABQJAABAAAQFADCA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.Libro" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAgQAAAAAABAAAAAAAAAAAAAAAAABAAAAUAIAgA=</HashCode>
+      <FileName>Libro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.Lista" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAEAAAoCAQABAAAASAAAYDAAQYBwBgAGAIAYRAAIQ=</HashCode>
+      <FileName>Lista.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.ModificaUtente" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEAEAgCAQgBEAAACAQARCAAQYBQBEAGARQQFAAiA=</HashCode>
+      <FileName>ModificaUtente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.Profilo" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cCAAEBAAwCAQABgAAACQAAFCIAQYAABAEiAAAYBAAiA=</HashCode>
+      <FileName>Profilo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.Program" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.Query" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAJAAAgAAQAAAQAAAAAEAAAAAAAAAQAAAAIA=</HashCode>
+      <FileName>Query.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.SceltiPerTe" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAIAAAgCCQABAAAASAAAICAAQCBQAAAAAAAIRIAAA=</HashCode>
+      <FileName>SceltiPerTe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.Scheda" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgAEAgEgCAQABABAADAAARCBASABUDAFQAAAABAAAA=</HashCode>
+      <FileName>Scheda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.Select" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAABAQQAAAAAAAAAgAAAAAAAAAQAAQEAAEAAA=</HashCode>
+      <FileName>Select.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.Storico" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMAABgCAQAAAAAACAAAACAAQABQBABAgAAIBAAEA=</HashCode>
+      <FileName>Storico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.VisualizzaPDF" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQAAAAAACAIAACAAQAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>VisualizzaPDF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAgAAAAAAAQBEAAABQA6AAAAAAABAgAAEIg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgettoPMO.Properties.Settings" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
